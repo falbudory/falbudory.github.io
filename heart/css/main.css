@@ -21,6 +21,7 @@ a.white-mode:hover, a.white-mode:link:hover, a.white-mode:visited:hover, a.white
 }
 
 .title {
+	
   z-index: 9999 !important;
   position: absolute;
   left: 50%;
